@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **System Design**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Backend Development**, **Devops**
 
 - 📫 How to reach me **ravitejajammulapati@gmail.com**
 
