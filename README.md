@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">A passionate backend developer, continuous learner and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **AWS and C++**
 
 - 🤝 I’m looking for help with **System Design**
 
